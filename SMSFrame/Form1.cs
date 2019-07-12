@@ -20,7 +20,6 @@ namespace SMSFrame
 
         public Form1()
         {
-            //grrrr
             DirectoryCheck();
             InitializeComponent();
             InitializeChromium();
